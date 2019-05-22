@@ -1,7 +1,7 @@
 # Nhois
 Easy script for nmap &amp; whois
 
-USAGE :
-    - Clone scan.sh into your computer
-    - Open terminal in same path with scan.sh file
-    - Run with ./scan.sh -i <ip target>
+USAGE :<br/><br/>
+    - Clone scan.sh into your computer <br/>
+    - Open terminal in same path with scan.sh file<br/>
+    - Run with ./scan.sh -i (ip target)<br/>
